@@ -3,5 +3,4 @@ Currently in development phase.
 
 # UI:
 
-![UI!](images/Testing_deployed1.png)
-
+![UI!](images/DeployedTest1.png)

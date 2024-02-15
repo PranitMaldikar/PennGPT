@@ -3,5 +3,5 @@ Currently in development phase.
 
 # UI:
 
-![UI!](PennGPT/images/Testing_deployed1.png)
+![UI!](images/Testing_deployed1.png)
 

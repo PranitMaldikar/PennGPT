@@ -33,7 +33,11 @@ llm = ChatOpenAI(model_name='gpt-4')
 
 qa = RetrievalQA.from_chain_type(llm=llm, chain_type="stuff", retriever=retriever)
 
+logo_path = "./logo.jpg"
+
+st.image(logo_path, width=100)
 st.title('PennGPT')
+
 user_input = st.text_input("Enter a query: ")
 if user_input:
     query = f"###Prompt {user_input}"
@@ -42,8 +46,3 @@ if user_input:
         st.write(llm_response["result"])
     except Exception as err:
         print('Exception occurred. Please try again', str(err))
-
-
-# while True:
-        
-        

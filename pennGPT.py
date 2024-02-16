@@ -14,7 +14,7 @@ load_dotenv()
 os.environ["OPENAI_API_KEY"] = os.getenv("API_KEY")
 
 persist_directory = "./storage"
-pdf_path = "./mergedData.pdf"
+pdf_path = "./newdata.pdf"
 
 loader = PyMuPDFLoader(pdf_path)
 documents = loader.load()

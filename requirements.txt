@@ -10,5 +10,6 @@ openapi-schema-pydantic==1.2.4
 PyMuPDF==1.23.16
 PyMuPDFb==1.23.9
 python-dotenv==1.0.0
-streamlit==1.31.0
+streamlit
 streamlit-ace==0.1.1
+tiktoken==0.5.2

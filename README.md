@@ -1,10 +1,10 @@
 Penn State Harrisburg's Academic Chatbot !
 Currently in development phase.
 
-# UI:
+# GPT as an academic advisor
 
-GPT as a academic advisor
-![UI!](images/DeployedTest2.png)
+![UI1!](images/DeployedTest2.png)
 
-Intentionally providing "open-ended" or "ambiguous" lacking specific details or clear parameters.
-![UI!](images/DeployedTest1.png)
+# Intentionally providing "open-ended" or "ambiguous" lacking specific details or clear parameters.
+
+![UI2!](images/DeployedTest1.png)

@@ -5,6 +5,6 @@ Currently in development phase.
 
 ![UI1!](images/DeployedTest2.png)
 
-# Intentionally providing "open-ended" or "ambiguous" lacking specific details or clear parameters.
+# Intentionally providing "open-ended" or "ambiguous" questions lacking specific details or clear parameters.
 
 ![UI2!](images/DeployedTest1.png)
